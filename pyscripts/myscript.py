@@ -1,6 +1,6 @@
 def main():
     print("Hello, World!")
-    print("Welcome to DEVASC")
+    print("Welcome to DevAsc!")
 
 
 if __name__ == "__main__":
